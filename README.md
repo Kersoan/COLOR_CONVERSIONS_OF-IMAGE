@@ -1,4 +1,4 @@
-# COLOR_CONVERSIONS_OF-IMAGE
+# EX-01-COLOR_CONVERSIONS_OF-IMAGE
 
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
