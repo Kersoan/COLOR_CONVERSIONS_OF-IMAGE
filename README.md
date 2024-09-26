@@ -140,7 +140,7 @@ cv2.destroyAllWindows()
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 
-![](OG.png)![](BGR2HSV.png)![](RGB2HSV.png)![](BGR2GRAY.png)![](RGB2GRAY.png)
+![]("d1output.jpg")!
 <br>
 
 ### ii) HSV to RGB and BGR
