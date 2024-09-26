@@ -25,6 +25,10 @@ Split and merge the image using cv2.split() and cv2.merge()<br>
 
 ### Step5:
 Output the image using cv2.imshow()
+
+### Step6:
+
+Save the final modified image to your local directory.
 <br>
 
 ##### Program:
@@ -146,4 +150,4 @@ cv2.destroyAllWindows()
 
 
 ## Result:
-Thus the color conversion was performed between RGB, HSV and YCbCr color models.
+Thus the images are read, displayed, and written ,and color conversion was performed  successfully using the python program.
