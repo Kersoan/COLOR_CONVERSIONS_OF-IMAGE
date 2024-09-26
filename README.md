@@ -1,4 +1,5 @@
 # COLOR_CONVERSIONS_OF-IMAGE
+
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -13,22 +14,26 @@ Import cv2 library and upload the image or capture an image.
 ### Step2:
 
 Read the saved image using cv2.imread().
-
+</br>
 
 ### Step3:
 
 Convert the image into the given color transformation using cv2.cvtColor().<br>
+</br>
 
 ### Step4:
 
 Split and merge the image using cv2.split() and cv2.merge()<br>
+</br>
 
 ### Step5:
 Output the image using cv2.imshow()
+</br>
 
 ### Step6:
 Flip the original image horizontally and display it.
 Flip the original image vertically and display it.
+</br>
 
 ### Step7:
 
