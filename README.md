@@ -27,11 +27,10 @@ Split and merge the image using cv2.split() and cv2.merge()<br>
 Output the image using cv2.imshow()
 <br>
 
-## Program:
+##### Program:
+### Developed By: KERSOAN P
+### Register Number: 212221230050 
 ```python
-# Register Number: Kersoan P
-# Developed By: 212221230050
-
 
 # i) Convert BGR and RGB to HSV and GRAY
 
