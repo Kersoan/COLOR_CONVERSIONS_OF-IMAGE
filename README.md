@@ -1,4 +1,4 @@
-# Color Conversion
+# COLOR_CONVERSIONS_OF-IMAGE
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -29,8 +29,8 @@ Output the image using cv2.imshow()
 
 ## Program:
 ```python
-# Developed By: 212221240040
-# Register Number: Pranave B
+# Developed By: 212221230050
+# Register Number: Kersoan P
 
 # i) Convert BGR and RGB to HSV and GRAY
 
