@@ -2,57 +2,47 @@
 
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
-
+</br>
 ## Software Required:
 Anaconda - Python 3.7
 </br>
 </br>
 ## Algorithm:
 </br>
-
 ### Step1:
 </br>
 Import cv2 library and upload the image or capture an image.
 </br>
-
 ### Step2:
 </br>
 Read the saved image using cv2.imread().
 </br>
-
 ### Step3:
 </br>
 Convert the image into the given color transformation using cv2.cvtColor().<br>
 </br>
-
 ### Step4:
 </br>
-
 Split and merge the image using cv2.split() and cv2.merge()<br>
 </br>
-
 ### Step5:
 </br>
-
 Output the image using cv2.imshow()
 </br>
-
 ### Step6:
 </br>
-
 Flip the original image horizontally and display it.
 Flip the original image vertically and display it.
 </br>
-
 ### Step7:
-
 Save the final modified image to your local directory.
 <br>
 
+</br>
 ##### Program:
 ### Developed By: KERSOAN P
 ### Register Number: 212221230050 
-
+</br>
 </br>
 
 ```python
