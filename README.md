@@ -27,6 +27,10 @@ Split and merge the image using cv2.split() and cv2.merge()<br>
 Output the image using cv2.imshow()
 
 ### Step6:
+Flip the original image horizontally and display it.
+Flip the original image vertically and display it.
+
+### Step7:
 
 Save the final modified image to your local directory.
 <br>
